@@ -1,5 +1,5 @@
 SupportAPSPBName
 ====
 
-FaceTuneとAvaterPoseSystemを同梱した時にAvaterPoseSystem側のPB名前置き換えが早すぎるので代替手段としてTransforming時に名前置き換えを実施するやつ。<br>
+FaceTuneとAvaterPoseSystemを同梱した時にAvaterPoseSystem側のPBパス置き換えが早すぎるので代替手段としてTransforming時にパス置き換えを実施するやつ。<br>
 FaceTuneとAvaterPoseSystemの導入必須です。
