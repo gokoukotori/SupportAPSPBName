@@ -1,2 +1,5 @@
-FaceTuneとAvaterPoseSystemを同梱した時に側のPB名前置き換えが早すぎるので代替で手段でTransformingフェイズで名前置き換えを実施するやつ
-FaceTuneとAvaterPoseSystemの導入必須です
+SupportAPSPBName
+====
+
+FaceTuneとAvaterPoseSystemを同梱した時に側のPB名前置き換えが早すぎるので代替で手段でTransformingフェイズで名前置き換えを実施するやつ。<br>
+FaceTuneとAvaterPoseSystemの導入必須です。
